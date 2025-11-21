@@ -1,6 +1,9 @@
-venv/
+.vnv/
 __pycache__/
 *.pyc
 *.db
 tasks.db
 .pytest_cache/
+.vnv/
+.DS_Store
+.vnv
