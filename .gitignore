@@ -5,5 +5,6 @@ __pycache__/
 tasks.db
 .pytest_cache/
 .vnv/
+.vnv/
 .DS_Store
 .vnv
